@@ -1,0 +1,7 @@
+2009-->>Sudip Neupane-->>9864778944-->>Programming language II-->>98.0-->>
+2009-->>John Macarty-->>56789765456-->>Programming language II-->>39.0-->>
+2002-->>Sudip Neupane-->>9864778944-->>Concept and Technologies of AI-->>97.5-->>
+2002-->>John Macarty-->>56789765456-->>Concept and Technologies of AI-->>69.0-->>
+2005-->>Sudip Neupane-->>9864778944-->>Object-Oriented Design and Programming-->>96.5-->>
+2007-->>Sudip Neupane-->>9864778944-->>Game Technology-->>93.0-->>
+2007-->>John Macarty-->>56789765456-->>Game Technology-->>89.0-->>
